@@ -27,6 +27,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Image Alt Text](readMeImages/full.png)
 
 
+# Please Note
+# I have to use a little bit css becasue as mention in docs that React CRA is to used Mantine do apply PostCss anymore to CRA Application
+![Image Alt Text](readMeImages/Mantine.png)
+
+
+
 
 
 ### `yarn start`
