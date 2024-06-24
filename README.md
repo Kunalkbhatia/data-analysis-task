@@ -3,12 +3,28 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## How To Run the Project
-1. Move to you desired Diretory
+1. Move to your desired Diretory
 2. Clone this repository using git clone https://github.com/Kunalkbhatia/data-analysis-task.git
 3. cd data-analysis-task
 3. yarn install
 4. yarn start
 5. And the project will run on local host
+
+
+# ScreenShots
+
+## Table-1
+![Image Alt Text](readMeImages/table1_1.png)
+![Image Alt Text](readMeImages/table1_2.png)
+
+
+## Table-2
+![Image Alt Text](readMeImages/table2_1.png)
+![Image Alt Text](readMeImages/table2_2.png)
+
+
+## Full Screen
+![Image Alt Text](readMeImages/full.png)
 
 
 
