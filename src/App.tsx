@@ -1,26 +1,17 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
+import Table1 from "./Components/Table1";
+import Table2 from "./Components/Table2";
+import data from "./Dummy Data/Data.json";
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="wrapper">
+        <p>Note: For Table-1 Null Values are not consider in the comparison for Maxiumum Production and Minimum Production</p>
+        <Table1 data={data} />
+        <p>Note: For Table-2 Null values are consider 0 for the evalutaion</p>
+        <Table2 data={data} />
+      </div>
     </div>
   );
-}
+};
 
 export default App;
