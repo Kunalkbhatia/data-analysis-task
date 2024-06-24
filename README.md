@@ -28,7 +28,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 # Please Note
-# I have to use a little bit css becasue as mention in docs that React CRA is to used,  Mantine doest support CSS/PostCss anymore to CRA Application.
+# I have to use a little bit css becasue as mention in docs that React CRA is to used,  Mantine doesn't support CSS/PostCss anymore to CRA Application.
 ![Image Alt Text](readMeImages/Mantine.png)
 
 
